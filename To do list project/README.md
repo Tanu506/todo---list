@@ -21,7 +21,7 @@ A simple To-Do List built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![To-Do List](To%20do%20list%20project/screenshot.png)
+![To-Do List](screenshot.png)
 
 ## 📂 Project Structure
 
